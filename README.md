@@ -1,3 +1,3 @@
 # lojavirtual
 
-Texto alterado no repositório local.
+Minha alteração foi feita com rapidez...
